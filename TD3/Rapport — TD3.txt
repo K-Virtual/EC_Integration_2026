@@ -1,0 +1,13 @@
+	Rapport — TD3
+
+		Points clés
+
+			1. Les querySelector
+
+Les querySelector nous permettent de trouver une information, un texte, ou de changer le contenu de celui-ci en rentrant une balise sémantique derrière la commande : document.querySelector('balise sémantique').
+
+			2. L'utilité de Javascript
+
+Javascript permet de créer de vraies animations sur un site web quand l'utilisateur interagit avec celui-ci (pas nécessairement le cas tout le temps). Le css peut faire quelques animations, mais est très limité.
+ 
+		Pas d'utilisation de l'IA.
