@@ -1,0 +1,12 @@
+Rapport — TP1
+
+	Points clés
+
+		1. Grids
+			J'ai appris à me servir des grid pendant cette séance, bien que mon expérience avec celle-ci fût compliqué… Cette commande permet de séparer notre page en "colonnes" ou en "lignes" pour pouvoir modifier les positions de certains objets uniquement dans cette zone.
+		2. Les transitions
+			J'ai utilisé les transitions pour pendant cette séance. Cela permet de nous montrer visuellement, par le biais de la commande ":hover" et d'une animation, quand notre souris est sur un bloc précis.
+		3. Box-Shadow
+			J'ai utilisé la commande css "box-shadow" pour la première fois, elle permet d'appliquer une couche d'ombre à un élément pour le détacher du background. (En faisant mes recherches, je suis tombé sur un site permettant de donner un visuel et la commande qui va avec pour être plus efficient).
+ 
+		L'IA a été utilisé uniquement pour corriger les fautes d'orthographe de ce rapport.
