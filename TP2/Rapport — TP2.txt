@@ -1,0 +1,13 @@
+	Rapport — TP2
+
+		Points clés
+
+			1. QuerySelectorAll
+
+Permet de sélectionner tout les éléments.
+
+			2. .forEach()
+
+Permet d'éxécuter le même code pour chaque élément (sur une partie précise du code voulu par le créateur).
+
+		Pas d'utilisation de l'IA.
