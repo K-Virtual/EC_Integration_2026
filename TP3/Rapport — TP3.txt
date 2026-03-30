@@ -1,0 +1,17 @@
+	Rapport — TP3
+
+		Points clés :
+
+			1. Tags
+
+			D'après cette ligne de commande, pour créer un tag, il faut mettre "tags", afin de passer une ligne de caractère un tag qui peut ensuite être filtré par la ligne de commande : .filter(). Cela permet de trier des éléments précis par le biais de tags précis.
+
+			2. element.innerHTML
+
+			Grâce à cette ligne de commande, on peut créer un élément HTML, donc une chaîne de caractères en élément Javascript.
+
+			3. document.createElement()
+
+			Permet de créer un élément HTML en Javascript.
+
+		L'IA n'a pas été utilisée lors de ce TP3.
